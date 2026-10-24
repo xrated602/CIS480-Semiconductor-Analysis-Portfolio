@@ -1,0 +1,36 @@
+# Generated financial datasets
+*.csv
+*.tsv
+*.parquet
+*.feather
+*.xlsx
+*.xls
+*.db
+*.sqlite
+
+# Power BI files containing or referencing datasets
+*.pbix
+*.pbit
+*.pbip
+*.pbi
+*.pbism
+
+# Python and Jupyter temporary files
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Credentials and local environments
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.venv/
+venv/
+
+# Local generated outputs
+outputs/
+exports/
+data/raw/
+data/processed/
