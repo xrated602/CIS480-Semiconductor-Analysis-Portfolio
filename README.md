@@ -145,3 +145,8 @@ Historical performance does not predict future returns. This project is for educ
 
 
 Public-release preparation is in progress. The original capstone repository and historical project evidence remain privately preserved.
+## License
+
+The original software developed by Luis Ramirez, Rey Guirette, and Colen Wilson for this project is licensed under the MIT License. See the LICENSE file for details.
+
+This license does not apply to third-party historical market data obtained through Yahoo Finance or yfinance. Users are responsible for complying with applicable data-provider terms and permissions. Generated datasets and Power BI files containing embedded market data are not distributed in this repository.
