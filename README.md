@@ -128,19 +128,26 @@ Historical performance does not predict future returns. This project is for educ
 
 
 
-\## Project Team
+\## Team Contributions
 
+**Luis Ramirez - Project Integration and Data Visualization**
+- Integrated the team Python analysis and documentation.
+- Developed and validated the Power BI dashboard.
+- Coordinated GitHub management, testing, and deliverables.
 
+**Rey Guirette - Data Preparation and Quality Assurance**
+- Contributed to historical market-data preparation and documentation.
+- Verified notebook reproducibility and data-quality checks.
+- Reviewed data governance, security, and methodology.
 
-\- Luis Ramirez
+**Colen Wilson - KPI Validation and Dashboard Review**
+- Independently reviewed KPI calculations and risk interpretations.
+- Tested dashboard interactions, usability, and accessibility.
+- Provided analytical recommendations and improvement feedback.
 
-\- Rey Guirette
+The original private team repository preserves development branches and contribution evidence.
 
-\- Colen Wilson
-
-
-
-\## Project Status
+## Project Status
 
 
 
